@@ -1,0 +1,14 @@
+{
+  "name": "OruBird",
+  "version": "1.0.0",
+  "description": "bird flying through Oru",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tobias Gillström",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
